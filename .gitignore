@@ -176,3 +176,6 @@ cython_debug/
 
 # Astro cache
 .astro/
+
+# Credentials text file
+dags/credentials.txt
